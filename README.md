@@ -1,4 +1,8 @@
-### Hi there 👋
+#### 👋 Hi, I'm [@greenchapter](https://twitter.com/greenchapter)
+- 👀 I'm interested in DAOs, Socialtokens and DeFi
+- 🌱 I'm currently learning golang
+- ✨ Working a lot with Kubernetes
+- 💞 I'm looking to collaborate on new projects
 
 <!--
 **greenchapter/greenchapter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
