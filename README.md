@@ -4,6 +4,8 @@
 - ✨ Working a lot with Kubernetes
 - 💞 I'm looking to collaborate on new projects
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=greenchapter&show_icons=true&locale=en&count_private=true&hide_title=true&disable_animations=true)
+
 <!--
 **greenchapter/greenchapter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
